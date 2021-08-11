@@ -1,16 +1,16 @@
-Student 1
+Student 1   Chittagong
 ===========
 ==========
-Student 2 
+Student 2   Dhaka
 =========
 ========
-Student 3 
+Student 3   Sylhet
 ========
 ========
-Student 4
+Student 4   Rangpur
 ===========
 ==========
-Student 5
+Student 5    Mymonsing
 ==========
 =========
 New lind added in Student file. 
